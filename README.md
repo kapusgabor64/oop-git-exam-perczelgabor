@@ -1,0 +1,1 @@
+Megcsináltuk a második readme.md fájlt.
